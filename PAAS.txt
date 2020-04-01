@@ -1,0 +1,43 @@
+
+Platform As A Service
+
+
+ PAAS is a cloud computing model which allows user to deliver applications over the Internet. In a this model, a cloud provider provides hardware ( like IaaS ) as well as software tools which  are usually needed for development of required Application to its users. The hardware and software tools are provided as a Service. A PaaS provider hosts the hardware and software on its own infrastructure or a hired infrastructure such as AWS. As a result, PaaS relieves its users from installing in-house hardware and software needed to develop or run a new application. PaaS allows the developer to focus on the app by covering all infrastructure and middleware related management aspects.
+
+
+Why choose PaaS :
+
+	Increase deployment speed & agility
+	Reduce length & complexity of app lifecycle
+	Prevent loss in revenue
+	Automate provisioning, management, and auto-scaling of applications and services on IaaS platform
+	Support continuous delivery
+	Reduce infrastructure operation costs
+	Automation of admin tasks
+
+The Key Benefits of PaaS for Developers.
+
+There’s no need to focus on provisioning, managing, or monitoring the compute, storage, network and software
+	Developers can create working prototypes in a matter of minutes.
+	Developers can create new versions or deploy new code more rapidly
+	Developers can self-assemble services to create integrated applications.
+	Developers can scale applications more elastically by starting more instances.
+	Developers don’t have to worry about underlying operating system and middleware security patches.
+	Developers can mitigate backup and recovery strategies, assuming the PaaS takes care of this.
+
+Common PaaS opensource distributions include CloudFoundry and Redhat OpenShift.
+
+Common PaaS vendors include Salesforce’s Force.com , IBM Bluemix , HP Helion , Pivotal Cloudfoundry.
+
+PaaS platforms for software development and management include Appear IQ, Mendix, Amazon Web Services (AWS) Elastic Beanstalk, Google App Engine and Heroku.
+
+PaaS (Platform as a Service), as the name suggests, provides you computing platforms which typically includes operating system, programming language execution environment, database, web server etc. Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos.
+
+Platform as a service (PaaS) is a cloud computing model in which a third-party provider delivers hardware and software tools -- usually those needed for application development -- to users over the internet. A PaaS provider hosts the hardware and software on its own infrastructure.
+
+AWS Elastic Beanstalk :
+
+DescriptionAWS Elastic Beanstalk is an orchestration service offered by Amazon Web Services for deploying applications which orchestrates various AWS services, including EC2, S3, Simple Notification Service, CloudWatch, autoscaling, and Elastic Load Balancers.
+
+
+
